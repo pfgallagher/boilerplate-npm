@@ -1,12 +1,18 @@
 {
 	"author": "Patrick Gallagher",
 	"description": "This is a test package.json for freecodecamp.",
-	"keywords": ["freecodecamp", "free", "code", "camp"],
+	"keywords": [
+		"freecodecamp",
+		"free",
+		"code",
+		"camp"
+	],
 	"name": "fcc-learn-npm-package-json",
 	"license": "MIT",
 	"version": "0.1.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
