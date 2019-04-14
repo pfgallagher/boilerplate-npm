@@ -3,6 +3,7 @@
 	"description": "This is a test package.json for freecodecamp.",
 	"keywords": ["freecodecamp", "free", "code", "camp"],
 	"name": "fcc-learn-npm-package-json",
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
